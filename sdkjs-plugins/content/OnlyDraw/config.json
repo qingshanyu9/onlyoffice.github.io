@@ -28,8 +28,8 @@
 				},
 				"screenshots" : ["resources/screen.png"],
 				"icons" : {
-					"light" : "resources/icon.png",
-					"dark"  : "resources/icon.png"
+					"light" : "resources/store",
+					"dark"  : "resources/store"
 				},
 				"categories": ["specAbilities", "work", "recommended"]
 			},
