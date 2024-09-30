@@ -33,10 +33,7 @@
 				},
 				"categories": ["specAbilities", "work", "recommended"]
 			},
-        "evwnts": [ "onClick"]
+        "events": [ "onClick"]
       }
-    ],
-    "resources": {
-      "directory": "emoticons"
-    }
+    ]
   }
