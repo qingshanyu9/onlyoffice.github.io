@@ -6,7 +6,7 @@
       {
         "description": "矢量图/表情包管理系统",
         "url": "index.html",
-        "icons": ["resources/icon.png"],
+        "icons": ["resources/img/icon.png", "resources/img/icon@2x.png"],
         "isViewer": false,
         "EditorsSupport": ["word", "cell", "slide", "pdf" ],
         "isVisual": true,
