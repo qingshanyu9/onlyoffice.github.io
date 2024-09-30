@@ -21,6 +21,20 @@
             {"text": "插入自由绘制","primary": true},
             {"text": "关于插件","primary": true}
         ],
+          "store": {
+				"background": {
+					"light" : "#444444",
+					"dark" : "#444444;"
+				},
+				"screenshots" : [
+					"resources/store/icon.png"			
+				],
+				"icons"       : {
+					"light" : "resources/store/icons",
+					"dark"  : "resources/store/icons"
+				},
+				"categories": ["entertainment", "specAbilities"]
+			}
         "evwnts": [ "onClick"]
       }
     ],
