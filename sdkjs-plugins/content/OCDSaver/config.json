@@ -9,8 +9,7 @@
             "description": "OCD Saver：可根据现代书写标准自动格式化中文文本。该插件将调整标点符号样式、中文和拉丁字符之间的间距、全角与半角符号使用等。",
             "descriptionLocale": {
                 "zh": "OCD Saver: Automatically formats Chinese text according to modern writing standards. This plugin adjusts punctuation styles, spacing between Chinese and Latin characters, and the usage of full-width and half-width symbols."
-            },
-            "baseUrl": "http://localhost:3000/",
+            }
             "url": "index.html",
             "icons": [
                 "resources/img/icon.png"
