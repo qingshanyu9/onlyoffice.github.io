@@ -572,6 +572,7 @@ function getAllPluginsData(bFirstRender, bshowMarketplace) {
 		let confUrl = pluginUrl + 'config.json';
 		makeRequest(confUrl, 'GET', null, null, true).then(
 			function(response) {
+				console.log("Response received from " + confUrl + ":", response); 
 				let config = JSON.parse(response);
 				config.url = confUrl;
 				config.baseUrl = pluginUrl;
